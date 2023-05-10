@@ -173,3 +173,25 @@
 **Tips:** 也可通过分散对齐设置。
 
 **相关文档：[左右对齐文字.docx](./src/%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90%E6%96%87%E5%AD%97.docx)**
+
+---
+
+## 快捷键
+
+Ctrl + 0: 将选中的文本每段前增加 12 磅的间距
+
+Ctrl + 1: 快速设置选中的文本行距为 “单倍行距”
+
+Ctrl + 2: 将选中的文本行距设置为 “两倍行距”
+
+Ctrl + 5: 将选中的文本行距设置为 “1.5 倍行距”
+
+Ctrl + Delete: 删除光标后面一个英文单词或一个中文词语
+
+Ctrl + 退格键: 删除光标前面一个英文单词或一个中文词语
+
+Ctrl + Page Down: 将光标移动到下一页的顶部
+
+Ctrl + Page Up: 将光标移动到上一页的顶部
+
+**参考：**[Word 快捷键](https://support.microsoft.com/zh-cn/office/word-%E4%B8%AD%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-95ef89dd-7142-4b50-afb2-f762f663ceb2#PickTab=Windows)
