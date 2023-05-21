@@ -205,3 +205,17 @@ Ctrl + \[: 按数字增大字号
 Ctrl + Shift + >: 按选项增大字号
 
 **参考：**[Word 快捷键](https://support.microsoft.com/zh-cn/office/word-%E4%B8%AD%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-95ef89dd-7142-4b50-afb2-f762f663ceb2#PickTab=Windows)
+
+---
+
+## 标题行段前不显示
+
+如图所示，标题行段前段后距离都设置 12pt，但标题行段前不显示
+
+![](./image/271565.png)
+
+问题可能是分节符的样式问题，选中分节符，或将光标放到分节符前面，清除分节符样式，或将分节符段后距离设置为 0 即可
+
+![](./image/751701.png)
+
+**相关文档：[标题行段前不显示.docx](./src/%E6%A0%87%E9%A2%98%E8%A1%8C%E6%AE%B5%E5%89%8D%E4%B8%8D%E6%98%BE%E7%A4%BA.docx)**
