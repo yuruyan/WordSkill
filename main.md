@@ -55,7 +55,7 @@
 | ?                  | 任意单个字符（相当于正则的 **.**）      |
 | [0-9]              | 任意单个数字                            |
 | [a-zA-Z]           | 任意英文字母                            |
-| ^13 or ^p          | 段落标记 ↵（^p 只能用于查找框）         |
+| ^13 or ^p          | 段落标记 ↵（^p 只能用于非通配符查找框） |
 | ^l or ^11          | 手动换行符 ↓                            |
 | ( )                | 表达式                                  |
 | >                  | 单词结尾                                |
@@ -193,5 +193,15 @@ Ctrl + 退格键: 删除光标前面一个英文单词或一个中文词语
 Ctrl + Page Down: 将光标移动到下一页的顶部
 
 Ctrl + Page Up: 将光标移动到上一页的顶部
+
+Alt + Shift + ↑: 移动当前行到上一行
+
+Alt + Shift + ↓: 移动当前行到下一行
+
+Ctrl + Shift + Enter: 快速拆分表格
+
+Ctrl + \[: 按数字增大字号
+
+Ctrl + Shift + >: 按选项增大字号
 
 **参考：**[Word 快捷键](https://support.microsoft.com/zh-cn/office/word-%E4%B8%AD%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-95ef89dd-7142-4b50-afb2-f762f663ceb2#PickTab=Windows)
